@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
 class OrderBOImplTest {
 
 	@Test
-	void test() {
+	void placeorder_should_create_an_order() {
 		fail("Not yet implemented");
 	}
 
